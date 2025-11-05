@@ -31,10 +31,12 @@ AI Book Research Assistant. It contains an Agent powered by OpenAI GPT4.1-mini L
 
 ## Sample Respons
 
-`Input Query:` 
-    Search for books with 'Linear Algebra' in the title and tell me about the one with the most editions
+**Input Query:**
 
-`Response:`
-    The book with the most editions that has 'Linear Algebra' in the title is "Bundle" by Jeffrey D. Camm, James J. Cochran, Michael J. Fry, Jeffrey W. Ohlmann, and David Ray Anderson. It has 97 editions. However, there is no specific description available for this book.
+`Search for books with 'Linear Algebra' in the title and tell me about the one with the most editions`
 
-    If you want, I can provide details about other notable books on linear algebra with many editions as well.
+**Response:**
+
+`The book with the most editions that has 'Linear Algebra' in the title is "Bundle" by Jeffrey D. Camm, James J. Cochran, Michael J. Fry, Jeffrey W. Ohlmann, and David Ray Anderson. It has 97 editions. However, there is no specific description available for this book.`
+
+`If you want, I can provide details about other notable books on linear algebra with many editions as well.`
